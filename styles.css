@@ -869,6 +869,7 @@ form input{
 
     .email_field {
         padding: 20px;
+        max-width: 100%;
     }
     
     .submit_button {
