@@ -612,7 +612,11 @@ form input{
 
     .logo {
         margin-top: 20px;
-        font-size: 24px;
+        font-size: 22px;
+    }
+
+    .logo_mm {
+        margin-top: 20px;
     }
 
     .easy_access {
@@ -836,7 +840,7 @@ form input{
     
     .promotion_text {
         font-size: 18px;
-        margin-left: 30px;
+        margin-left: 0px;
         margin-top: 10px;
         text-align: center;
     }
@@ -861,6 +865,10 @@ form input{
 
     .form {
         padding: 10px;
+    }
+
+    .email_field {
+        padding: 20px;
     }
     
     .submit_button {
@@ -896,7 +904,7 @@ form input{
     }
     
     .promotion_text_8 {
-        font-size: 16px;
+        font-size: 18px;
         margin-left: 30px;
         margin-top: 10px;
     }
