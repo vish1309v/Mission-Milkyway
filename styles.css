@@ -857,8 +857,7 @@ form input{
     form input{
         padding: 15px;
         margin-top: 80px;
-        margin-left: 30px;
-        width: 350px;
+        width: 300px;
         background-color: rgba(128, 128, 128, 0.125);
         color: wheat;
     }
@@ -868,7 +867,6 @@ form input{
     }
 
     .email_field {
-        padding: 20px;
         max-width: 100%;
     }
     
