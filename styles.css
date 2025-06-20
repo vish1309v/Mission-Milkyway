@@ -456,6 +456,11 @@ figure {
     font-size: 56px;
 }
 
+.instagram_icon_page7 {
+        text-align: center;
+    }
+    
+
 .space {
     padding-bottom: 20px;
 }
@@ -760,7 +765,7 @@ form input{
         font-size: 28px;
         padding-left: 30px;
         padding-top: 20px;
-        padding-bottom: 20px;
+        padding-bottom: 10px;
     }
     
     .page5_content_text_parts {
@@ -846,6 +851,10 @@ form input{
         background-color: red;
         font-size: 18px;
         display: block;
+    }
+
+    .instagram_icon_page7 {
+        text-align: center;
     }
     
     .instagram_icon1 {
